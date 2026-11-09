@@ -1,0 +1,6 @@
+{
+  "name": "Pulsoid VR",
+  "description": "Real-time heart rate monitor with Magic Chatbox, VRChat OSC integration, BLE monitor support, PC OBS stream overlay, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
